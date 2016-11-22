@@ -12,7 +12,7 @@ Jump to the [agenda](#agenda).
   * Time: 9:00am - 12:00pm, with optional outdoor exercise until 1:30pm
   * Location: [University of the South Pacific, GIS Lab](http://www.openstreetmap.org/?mlat=-18.14822&mlon=178.44420#map=19/-18.14822/178.44420&layers=H)
 
-<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=178.44249218702322%2C-18.149376746176873%2C178.44590127468112%2C-18.147070100631115&amp;layer=hot&amp;marker=-18.14822342720881%2C178.44419673085213"></iframe>
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=178.44249218702322%2C-18.149376746176873%2C178.44590127468112%2C-18.147070100631115&amp;layer=hot&amp;marker=-18.14822342720881%2C178.44419673085213"></iframe>
 
 ### Agenda
 
