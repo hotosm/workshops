@@ -21,19 +21,19 @@ Jump to the [agenda](#agenda).
   - Background and Concepts
 3. **Remote Mapping in OSM**, 45 mins
   - Mapping with iD and JOSM	
-  - Mapping with a Tasking Manager	
+  - Mapping with Tasking Manager	
 4. **Field Mapping in OSM**, 30 mins
   - Collect Data with Field Papers
   - Collect Data with OpenMapKit
 5. **Extract OSM Data**, 30 mins
   - Download Data with Export Tool
   - Download Data with Overpass API
-6. *Optional: Model Hazard Impact Scenarios*, 30 mins
+6. **Model Hazard Impact Scenarios** *(Optional)*, 30 mins
   - Desktop QGIS
-  - InaSAFE Plugin Tool
-7. *Optional: Outdoor Exercise*, 60 mins
+  - InaSAFE Plugin
+7. **Outdoor Exercise** *(Optional)*, 60 mins
   - Install ODK and OMK
-  - Collect Data in Field
+  - Collect Data on the Ground
   - Verify and Add Data to OSM
 				 
 Total: ~ 4.5 hours
