@@ -1,6 +1,6 @@
 # OpenStreetMap at the Pacific GIS Conference 2016
 
-![](assets/images/gis-rs-pac.usrconf-logo.png)
+![](https://github.com/hotosm/workshops/tree/gh-pages/assets/images/gis-rs-pac.usrconf-logo.png)
 
 ## Fundamentals of remote and field mapping
 
