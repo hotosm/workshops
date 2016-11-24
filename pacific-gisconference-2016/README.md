@@ -2,9 +2,9 @@
 
 <table width="100%" border="0">
   <tr>    
-  <td><img src="workshops/assets/images/australian-aid-logo.png" alt="" align="center" /></td>
-  <td><img src="workshops/assets/images/usp-logo.png" alt="" align="center" /></td>
-  <td><img src="workshops/assets/images/gis-rs-pac-usrconf-logo.png" alt="" align="center"/></td>
+  <td><img src="assets/images/australian-aid-logo.png" alt="" align="center" /></td>
+  <td><img src="assets/images/usp-logo.png" alt="" align="center" /></td>
+  <td><img src="assets/images/gis-rs-pac-usrconf-logo.png" alt="" align="center"/></td>
   </tr>
 </table>
 
