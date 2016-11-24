@@ -1,4 +1,13 @@
 # OpenStreetMap at the Pacific GIS Conference 2016
+
+<table width="100%" border="0">
+  <tr>    
+  <td><img src="workshops/assets/images/australian-aid-logo.png" alt="" align="center" /></td>
+  <td><img src="workshops/assets/images/usp-logo.png" alt="" align="center" /></td>
+  <td><img src="workshops/assets/images/gis-rs-pac-usrconf-logo.png" alt="" align="center"/></td>
+  </tr>
+</table>
+
 ## Fundamentals of remote and field mapping
 
 Bula! On December 2, 2016 HOTOSM is organizing an OpenStreetMap (OSM) and field mapping workshop as a part of the Pacific GIS & Remote Sensing Users conference in Suva, Fiji on December 2, 2016. Join us for a half-day of learning about the basics of OSM, remote and field-based mapping in OSM, and tools to use and contribute to OSM. 
